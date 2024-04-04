@@ -22,6 +22,28 @@
 
 - Nothing.
 
+## 2.3.0 - 2024-04-04
+
+### Added
+
+- Added PHP 8.2 and 8.3  support.
+
+### Changed
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Removed PHP 7.4 and 8.1 support.
+
+### Fixed
+
+- Nothing.
+
 ## 2.1.0 - 2021-11-16
 
 ### Added
