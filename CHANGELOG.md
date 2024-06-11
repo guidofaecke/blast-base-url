@@ -1,5 +1,27 @@
 # Changelog
 
+## 2.3.1 - 2024-06-11
+
+### Added
+
+- Added http-message version.
+
+### Changed
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- Nothing.
+
 ## 2.3.0 - 2024-04-04
 
 ### Added
